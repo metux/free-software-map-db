@@ -1,0 +1,14 @@
+Package: open-zimbra
+Title: OpenZimbra
+Manager: enrico.weigelt@gr13.net
+Maintainer: enrico.weigelt@gr13.net
+Homepage: https://gitorious.org/open-zimbra
+Tags: groupware,linux,mail,collaboration,zimlet
+License: GPL
+Vcs-Git: git://gitorious.org/open-zimbra/open-zimbra.git
+Operating-System: GNU/Linux
+Description: Open community fork of the Zimbra Collaboration Suite
+ 
+ The Zimbra Collaboration Suite is an enterprise-grade Groupware
+ suite with a very rich and customizable Web-GUI.
+
